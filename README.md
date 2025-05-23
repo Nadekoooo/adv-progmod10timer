@@ -1,5 +1,5 @@
 ### 1.2. Understanding how it works
-![alt text](image.png)
+![alt text](image12.png)
 
 Program di gambar menunjukkan alur eksekusi async di Rust dengan hasil:
 
