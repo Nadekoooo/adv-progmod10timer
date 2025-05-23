@@ -15,6 +15,7 @@ Setelah waktu tunggu 2 detik selesai, eksekusi tugas yang ditunda dilanjutkan se
 
 ### 1.3.1 Removing drop spawner
 ![alt text](image131.png)
+
 Program menjalankan semua task async yang dijadwalkan
 Program tidak berhenti setelah semua task selesai dieksekusi
 Terminal tidak menampilkan prompt baru (program tetap berjalan)
@@ -24,6 +25,7 @@ Tanpa drop(spawner), channel antara spawner dan executor tetap terbuka. Executor
 
 ### 1.3.2 Adding drop spawner
 ![alt text](image132.png)
+
 Program menjalankan semua task async yang dijadwalkan
 Program berhenti setelah semua task selesai dieksekusi
 Terminal menampilkan prompt baru setelah program selesai (terlihat di gambar kedua)
